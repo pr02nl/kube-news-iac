@@ -1,2 +1,4 @@
 terraform.tfvars
 kube_config.yaml
+terraform.tfstate
+terraform.tfstate.backup
